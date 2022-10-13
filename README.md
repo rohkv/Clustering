@@ -10,3 +10,5 @@ We get 3 significant clusters based on this approach.
 To perform k-means clustering, we find the bend in the 'Elbow graph' and then take that number as our k. 
 
 Based on this, we formed 2 significant clusters and now we can use this output for target marketing
+
+Added cluster number on the dataset and formed a new csv 'Clustered Airlines Data- Output.csv'
